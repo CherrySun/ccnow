@@ -1,0 +1,14 @@
+{
+  "name": "ccnow",
+  "version": "0.1.0",
+  "description": "quick & cute tools for Claude Code",
+  "main": "src/index.js",
+  "bin": {
+    "ccnow": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["claude", "cli", "tools"],
+  "license": "MIT"
+}
